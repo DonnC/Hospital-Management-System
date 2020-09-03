@@ -1,0 +1,5 @@
+Drug:          		Panado(Pain Killer)
+Duration:      		2 weeks course
+Instructions:  		2 pills/day after every meal
+Prescriber:    		Doctor
+Date Added:		Thu May 02 08:55:53 2019
