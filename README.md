@@ -22,8 +22,6 @@
 - C++
 
 ### [Demo](demo/)
-  - working demo
-  ![](demo/demo.gif)
 - ///////////////////////////////////////////////////////
 ![](demo/home.png)
 ![](demo/doctor.png)
@@ -34,7 +32,3 @@
 ### Credits
 - My lecturer
 - [University](https://www.nust.ac.zw)
-
-### Note
-- Please leave a `STAR 🌟 | FORK 🍴` if you find this useful
-- If there are errors, debug it..(i even forgot how it works now 🥱)
